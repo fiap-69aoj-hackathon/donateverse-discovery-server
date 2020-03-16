@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: donateverse-discovery-server
+  profiles:
+    active:
+      dev
+server:
+  port: 8761
